@@ -1,0 +1,2 @@
+Redirect /index.html /html/index.html
+Options -Indexes
