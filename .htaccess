@@ -1,2 +1,2 @@
-Redirect /index.html /html/index.html
-Options -Indexes
+
+redirect 301 /index.html http://eesite.github.com/html/index.html
